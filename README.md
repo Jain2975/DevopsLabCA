@@ -6,6 +6,8 @@
 
 ## 1. Project Overview
 
+Hello
+
 This project demonstrates a simple CI/CD pipeline for a Node.js web application.
 
 Instead of manually testing the code and building/publishing a Docker image after every change, **GitHub Actions automates the process**. When code is pushed to the `main` branch, the workflow:
